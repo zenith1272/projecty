@@ -1,2 +1,5 @@
 README - projecty
 update
+
+[yishen@supplyfriend-lm projecty]$ git remote add origin https://github.com/zenith1272/projecty.git
+[yishen@supplyfriend-lm projecty]$ git push -u origin master
